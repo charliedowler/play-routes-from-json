@@ -1,0 +1,24 @@
+{
+  "name": "play-routes-from-json",
+  "version": "0.1.0",
+  "description": "Convert your play routes from a nicer json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charliedowler/play-routes-from-json.git"
+  },
+  "keywords": [
+    "play",
+    "routes",
+    "json"
+  ],
+  "author": "charliedowler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charliedowler/play-routes-from-json/issues"
+  },
+  "homepage": "https://github.com/charliedowler/play-routes-from-json"
+}
